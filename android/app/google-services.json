@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81071616396",
+    "project_id": "nursery-plant-app-51e1e",
+    "storage_bucket": "nursery-plant-app-51e1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81071616396:android:b0e680122ea7188d6266a9",
+        "android_client_info": {
+          "package_name": "com.example.local_plant_nurseries_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyfrw6ib1zXPMXl5OVspRU0unMJ2mOPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

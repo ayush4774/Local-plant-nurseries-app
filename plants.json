@@ -1,0 +1,1704 @@
+{
+  "plants": {
+    "plant_011": {
+      "name": "Sample Plant 11",
+      "scientificName": "Scientificus plantus 11",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_012": {
+      "name": "Sample Plant 12",
+      "scientificName": "Scientificus plantus 12",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_013": {
+      "name": "Sample Plant 13",
+      "scientificName": "Scientificus plantus 13",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_014": {
+      "name": "Sample Plant 14",
+      "scientificName": "Scientificus plantus 14",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_015": {
+      "name": "Sample Plant 15",
+      "scientificName": "Scientificus plantus 15",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_016": {
+      "name": "Sample Plant 16",
+      "scientificName": "Scientificus plantus 16",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_017": {
+      "name": "Sample Plant 17",
+      "scientificName": "Scientificus plantus 17",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_018": {
+      "name": "Sample Plant 18",
+      "scientificName": "Scientificus plantus 18",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_019": {
+      "name": "Sample Plant 19",
+      "scientificName": "Scientificus plantus 19",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_020": {
+      "name": "Sample Plant 20",
+      "scientificName": "Scientificus plantus 20",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_021": {
+      "name": "Sample Plant 21",
+      "scientificName": "Scientificus plantus 21",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_022": {
+      "name": "Sample Plant 22",
+      "scientificName": "Scientificus plantus 22",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_023": {
+      "name": "Sample Plant 23",
+      "scientificName": "Scientificus plantus 23",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_024": {
+      "name": "Sample Plant 24",
+      "scientificName": "Scientificus plantus 24",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_025": {
+      "name": "Sample Plant 25",
+      "scientificName": "Scientificus plantus 25",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_026": {
+      "name": "Sample Plant 26",
+      "scientificName": "Scientificus plantus 26",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_027": {
+      "name": "Sample Plant 27",
+      "scientificName": "Scientificus plantus 27",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_028": {
+      "name": "Sample Plant 28",
+      "scientificName": "Scientificus plantus 28",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_029": {
+      "name": "Sample Plant 29",
+      "scientificName": "Scientificus plantus 29",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_030": {
+      "name": "Sample Plant 30",
+      "scientificName": "Scientificus plantus 30",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_031": {
+      "name": "Sample Plant 31",
+      "scientificName": "Scientificus plantus 31",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_032": {
+      "name": "Sample Plant 32",
+      "scientificName": "Scientificus plantus 32",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_033": {
+      "name": "Sample Plant 33",
+      "scientificName": "Scientificus plantus 33",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_034": {
+      "name": "Sample Plant 34",
+      "scientificName": "Scientificus plantus 34",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_035": {
+      "name": "Sample Plant 35",
+      "scientificName": "Scientificus plantus 35",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_036": {
+      "name": "Sample Plant 36",
+      "scientificName": "Scientificus plantus 36",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_037": {
+      "name": "Sample Plant 37",
+      "scientificName": "Scientificus plantus 37",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_038": {
+      "name": "Sample Plant 38",
+      "scientificName": "Scientificus plantus 38",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_039": {
+      "name": "Sample Plant 39",
+      "scientificName": "Scientificus plantus 39",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_040": {
+      "name": "Sample Plant 40",
+      "scientificName": "Scientificus plantus 40",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_041": {
+      "name": "Sample Plant 41",
+      "scientificName": "Scientificus plantus 41",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_042": {
+      "name": "Sample Plant 42",
+      "scientificName": "Scientificus plantus 42",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_043": {
+      "name": "Sample Plant 43",
+      "scientificName": "Scientificus plantus 43",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_044": {
+      "name": "Sample Plant 44",
+      "scientificName": "Scientificus plantus 44",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_045": {
+      "name": "Sample Plant 45",
+      "scientificName": "Scientificus plantus 45",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_046": {
+      "name": "Sample Plant 46",
+      "scientificName": "Scientificus plantus 46",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_047": {
+      "name": "Sample Plant 47",
+      "scientificName": "Scientificus plantus 47",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_048": {
+      "name": "Sample Plant 48",
+      "scientificName": "Scientificus plantus 48",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_049": {
+      "name": "Sample Plant 49",
+      "scientificName": "Scientificus plantus 49",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_050": {
+      "name": "Sample Plant 50",
+      "scientificName": "Scientificus plantus 50",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_051": {
+      "name": "Sample Plant 51",
+      "scientificName": "Scientificus plantus 51",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_052": {
+      "name": "Sample Plant 52",
+      "scientificName": "Scientificus plantus 52",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_053": {
+      "name": "Sample Plant 53",
+      "scientificName": "Scientificus plantus 53",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_054": {
+      "name": "Sample Plant 54",
+      "scientificName": "Scientificus plantus 54",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_055": {
+      "name": "Sample Plant 55",
+      "scientificName": "Scientificus plantus 55",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_056": {
+      "name": "Sample Plant 56",
+      "scientificName": "Scientificus plantus 56",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_057": {
+      "name": "Sample Plant 57",
+      "scientificName": "Scientificus plantus 57",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_058": {
+      "name": "Sample Plant 58",
+      "scientificName": "Scientificus plantus 58",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_059": {
+      "name": "Sample Plant 59",
+      "scientificName": "Scientificus plantus 59",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_060": {
+      "name": "Sample Plant 60",
+      "scientificName": "Scientificus plantus 60",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_061": {
+      "name": "Sample Plant 61",
+      "scientificName": "Scientificus plantus 61",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_062": {
+      "name": "Sample Plant 62",
+      "scientificName": "Scientificus plantus 62",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_063": {
+      "name": "Sample Plant 63",
+      "scientificName": "Scientificus plantus 63",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_064": {
+      "name": "Sample Plant 64",
+      "scientificName": "Scientificus plantus 64",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_065": {
+      "name": "Sample Plant 65",
+      "scientificName": "Scientificus plantus 65",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_066": {
+      "name": "Sample Plant 66",
+      "scientificName": "Scientificus plantus 66",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_067": {
+      "name": "Sample Plant 67",
+      "scientificName": "Scientificus plantus 67",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_068": {
+      "name": "Sample Plant 68",
+      "scientificName": "Scientificus plantus 68",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_069": {
+      "name": "Sample Plant 69",
+      "scientificName": "Scientificus plantus 69",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_070": {
+      "name": "Sample Plant 70",
+      "scientificName": "Scientificus plantus 70",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_071": {
+      "name": "Sample Plant 71",
+      "scientificName": "Scientificus plantus 71",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_072": {
+      "name": "Sample Plant 72",
+      "scientificName": "Scientificus plantus 72",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_073": {
+      "name": "Sample Plant 73",
+      "scientificName": "Scientificus plantus 73",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_074": {
+      "name": "Sample Plant 74",
+      "scientificName": "Scientificus plantus 74",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_075": {
+      "name": "Sample Plant 75",
+      "scientificName": "Scientificus plantus 75",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_076": {
+      "name": "Sample Plant 76",
+      "scientificName": "Scientificus plantus 76",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_077": {
+      "name": "Sample Plant 77",
+      "scientificName": "Scientificus plantus 77",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_078": {
+      "name": "Sample Plant 78",
+      "scientificName": "Scientificus plantus 78",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_079": {
+      "name": "Sample Plant 79",
+      "scientificName": "Scientificus plantus 79",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_080": {
+      "name": "Sample Plant 80",
+      "scientificName": "Scientificus plantus 80",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_081": {
+      "name": "Sample Plant 81",
+      "scientificName": "Scientificus plantus 81",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_082": {
+      "name": "Sample Plant 82",
+      "scientificName": "Scientificus plantus 82",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_083": {
+      "name": "Sample Plant 83",
+      "scientificName": "Scientificus plantus 83",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_084": {
+      "name": "Sample Plant 84",
+      "scientificName": "Scientificus plantus 84",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_085": {
+      "name": "Sample Plant 85",
+      "scientificName": "Scientificus plantus 85",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_086": {
+      "name": "Sample Plant 86",
+      "scientificName": "Scientificus plantus 86",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_087": {
+      "name": "Sample Plant 87",
+      "scientificName": "Scientificus plantus 87",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_088": {
+      "name": "Sample Plant 88",
+      "scientificName": "Scientificus plantus 88",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_089": {
+      "name": "Sample Plant 89",
+      "scientificName": "Scientificus plantus 89",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_090": {
+      "name": "Sample Plant 90",
+      "scientificName": "Scientificus plantus 90",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_091": {
+      "name": "Sample Plant 91",
+      "scientificName": "Scientificus plantus 91",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_092": {
+      "name": "Sample Plant 92",
+      "scientificName": "Scientificus plantus 92",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_093": {
+      "name": "Sample Plant 93",
+      "scientificName": "Scientificus plantus 93",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_094": {
+      "name": "Sample Plant 94",
+      "scientificName": "Scientificus plantus 94",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_095": {
+      "name": "Sample Plant 95",
+      "scientificName": "Scientificus plantus 95",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_096": {
+      "name": "Sample Plant 96",
+      "scientificName": "Scientificus plantus 96",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_097": {
+      "name": "Sample Plant 97",
+      "scientificName": "Scientificus plantus 97",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_098": {
+      "name": "Sample Plant 98",
+      "scientificName": "Scientificus plantus 98",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_099": {
+      "name": "Sample Plant 99",
+      "scientificName": "Scientificus plantus 99",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_100": {
+      "name": "Sample Plant 100",
+      "scientificName": "Scientificus plantus 100",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_101": {
+      "name": "Sample Plant 101",
+      "scientificName": "Scientificus plantus 101",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_102": {
+      "name": "Sample Plant 102",
+      "scientificName": "Scientificus plantus 102",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_103": {
+      "name": "Sample Plant 103",
+      "scientificName": "Scientificus plantus 103",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_104": {
+      "name": "Sample Plant 104",
+      "scientificName": "Scientificus plantus 104",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_105": {
+      "name": "Sample Plant 105",
+      "scientificName": "Scientificus plantus 105",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_106": {
+      "name": "Sample Plant 106",
+      "scientificName": "Scientificus plantus 106",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_107": {
+      "name": "Sample Plant 107",
+      "scientificName": "Scientificus plantus 107",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_108": {
+      "name": "Sample Plant 108",
+      "scientificName": "Scientificus plantus 108",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_109": {
+      "name": "Sample Plant 109",
+      "scientificName": "Scientificus plantus 109",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    },
+    "plant_110": {
+      "name": "Sample Plant 110",
+      "scientificName": "Scientificus plantus 110",
+      "category": "Indoor",
+      "difficulty": "Easy",
+      "waterFrequencyDays": 7,
+      "sunlight": "Indirect Light",
+      "temperatureRange": "18-30°C",
+      "soilType": "Well-draining soil",
+      "fertilizerFrequencyDays": 30,
+      "commonProblems": [
+        "Overwatering"
+      ],
+      "careTips": "Water moderately.",
+      "imageUrl": "",
+      "isIndianCommon": true
+    }
+  }
+}

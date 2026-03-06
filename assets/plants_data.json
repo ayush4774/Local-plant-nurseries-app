@@ -1,0 +1,952 @@
+[
+  {
+    "commonName": "Tulsi",
+    "scientificName": "Ocimum tenuiflorum",
+    "category": "Medicinal",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "A sacred medicinal plant widely grown in Indian households.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Money Plant",
+    "scientificName": "Epipremnum aureum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Indirect sunlight",
+    "soil": "Any well-drained potting mix",
+    "description": "A popular trailing vine believed to bring prosperity.",
+    "origin": "South Asia"
+  },
+  {
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "category": "Medicinal",
+    "waterFrequency": "Once every 2 weeks",
+    "sunlight": "Bright indirect sunlight",
+    "soil": "Sandy, well-drained soil",
+    "description": "A succulent plant known for its gel-filled leaves.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Neem",
+    "scientificName": "Azadirachta indica",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained sandy soil",
+    "description": "A versatile tree with numerous traditional uses.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Mango",
+    "scientificName": "Mangifera indica",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Deep, well-drained loamy soil",
+    "description": "The national fruit tree of India.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Rose",
+    "scientificName": "Rosa indica",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Loamy, well-drained soil",
+    "description": "The queen of flowers, popular in gardens.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Jasmine",
+    "scientificName": "Jasminum",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2-3 days",
+    "sunlight": "Full to partial sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Fragrant flowers used in garlands and perfumes.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Marigold",
+    "scientificName": "Tagetes",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Bright orange flowers used in festivals.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Hibiscus",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "category": "Flowering",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, moist soil",
+    "description": "Vibrant tropical flowers, also used in hair care.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Bougainvillea",
+    "scientificName": "Bougainvillea spectabilis",
+    "category": "Flowering",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Colorful climbing plant for walls and gardens.",
+    "origin": "South America"
+  },
+  {
+    "commonName": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "category": "Indoor",
+    "waterFrequency": "Once every 2 weeks",
+    "sunlight": "Low to bright indirect",
+    "soil": "Well-drained potting mix",
+    "description": "Hardy plant that purifies indoor air.",
+    "origin": "West Africa"
+  },
+  {
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Low to medium light",
+    "soil": "Rich, moist soil",
+    "description": "Elegant white flowers, great air purifier.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Low to bright indirect",
+    "soil": "Well-drained potting mix",
+    "description": "Easy trailing vine for beginners.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Rubber Plant",
+    "scientificName": "Ficus elastica",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-drained potting mix",
+    "description": "Glossy leaves, easy to maintain indoors.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Indirect sunlight",
+    "soil": "Well-drained soil",
+    "description": "Popular hanging plant with baby plantlets.",
+    "origin": "South Africa"
+  },
+  {
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-drained potting mix",
+    "description": "Large violin-shaped leaves, trendy houseplant.",
+    "origin": "West Africa"
+  },
+  {
+    "commonName": "Monstera",
+    "scientificName": "Monstera deliciosa",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-draining potting mix",
+    "description": "Swiss cheese plant with unique leaves.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "category": "Indoor",
+    "waterFrequency": "Once every 2-3 weeks",
+    "sunlight": "Low to bright indirect",
+    "soil": "Well-drained potting mix",
+    "description": "Extremely drought-tolerant houseplant.",
+    "origin": "East Africa"
+  },
+  {
+    "commonName": "Areca Palm",
+    "scientificName": "Dypsis lutescens",
+    "category": "Indoor",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-draining soil",
+    "description": "Elegant palm that humidifies indoor air.",
+    "origin": "Madagascar"
+  },
+  {
+    "commonName": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "category": "Indoor",
+    "waterFrequency": "Every 2-3 days",
+    "sunlight": "Indirect light",
+    "soil": "Rich, moist soil",
+    "description": "Lush fern perfect for hanging baskets.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Curry Leaf",
+    "scientificName": "Murraya koenigii",
+    "category": "Medicinal",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Aromatic leaves essential in Indian cooking.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Mint",
+    "scientificName": "Mentha",
+    "category": "Medicinal",
+    "waterFrequency": "Daily",
+    "sunlight": "Partial sunlight",
+    "soil": "Rich, moist soil",
+    "description": "Refreshing herb used in cooking and drinks.",
+    "origin": "Europe"
+  },
+  {
+    "commonName": "Coriander",
+    "scientificName": "Coriandrum sativum",
+    "category": "Medicinal",
+    "waterFrequency": "Daily",
+    "sunlight": "Full to partial sun",
+    "soil": "Well-drained loamy soil",
+    "description": "Essential herb in Indian cuisine.",
+    "origin": "Mediterranean"
+  },
+  {
+    "commonName": "Lemongrass",
+    "scientificName": "Cymbopogon",
+    "category": "Medicinal",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Aromatic grass used in tea and cooking.",
+    "origin": "South Asia"
+  },
+  {
+    "commonName": "Ashwagandha",
+    "scientificName": "Withania somnifera",
+    "category": "Medicinal",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Dry, well-drained soil",
+    "description": "Ancient Ayurvedic herb for stress relief.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Brahmi",
+    "scientificName": "Bacopa monnieri",
+    "category": "Medicinal",
+    "waterFrequency": "Daily",
+    "sunlight": "Partial shade",
+    "soil": "Moist, rich soil",
+    "description": "Memory-enhancing herb used in Ayurveda.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Giloy",
+    "scientificName": "Tinospora cordifolia",
+    "category": "Medicinal",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Partial shade",
+    "soil": "Well-drained soil",
+    "description": "Immunity-boosting climbing plant.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Amla",
+    "scientificName": "Phyllanthus emblica",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Light, well-drained soil",
+    "description": "Indian gooseberry rich in Vitamin C.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Guava",
+    "scientificName": "Psidium guajava",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained loamy soil",
+    "description": "Popular fruit tree with medicinal leaves.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "Papaya",
+    "scientificName": "Carica papaya",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained sandy soil",
+    "description": "Fast-growing fruit tree with digestive benefits.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "Banana",
+    "scientificName": "Musa",
+    "category": "Tree",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, moist soil",
+    "description": "Tropical plant with nutritious fruits.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Coconut",
+    "scientificName": "Cocos nucifera",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Sandy, well-drained soil",
+    "description": "Versatile palm tree common in coastal India.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Jackfruit",
+    "scientificName": "Artocarpus heterophyllus",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Deep, well-drained soil",
+    "description": "Largest tree-borne fruit in the world.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Tamarind",
+    "scientificName": "Tamarindus indica",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Tangy fruit used in Indian cooking.",
+    "origin": "Africa"
+  },
+  {
+    "commonName": "Lemon",
+    "scientificName": "Citrus limon",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained loamy soil",
+    "description": "Citrus tree with sour, vitamin-rich fruits.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Orange",
+    "scientificName": "Citrus sinensis",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained sandy loam",
+    "description": "Sweet citrus fruit tree.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Pomegranate",
+    "scientificName": "Punica granatum",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Antioxidant-rich fruit tree.",
+    "origin": "Iran"
+  },
+  {
+    "commonName": "Drumstick",
+    "scientificName": "Moringa oleifera",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Sandy, well-drained soil",
+    "description": "Superfood tree with edible leaves and pods.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Bamboo",
+    "scientificName": "Bambusoideae",
+    "category": "Outdoor",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full to partial sun",
+    "soil": "Moist, well-drained soil",
+    "description": "Fast-growing grass with many uses.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Croton",
+    "scientificName": "Codiaeum variegatum",
+    "category": "Outdoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained potting mix",
+    "description": "Colorful foliage plant for gardens.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Ixora",
+    "scientificName": "Ixora coccinea",
+    "category": "Flowering",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Acidic, well-drained soil",
+    "description": "Cluster flowers in red, orange, or yellow.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Mogra",
+    "scientificName": "Jasminum sambac",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Fragrant Arabian jasmine for garlands.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Champa",
+    "scientificName": "Plumeria",
+    "category": "Flowering",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Fragrant tropical flowers.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "Parijat",
+    "scientificName": "Nyctanthes arbor-tristis",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Partial shade",
+    "soil": "Well-drained soil",
+    "description": "Night-blooming fragrant flowers.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Lotus",
+    "scientificName": "Nelumbo nucifera",
+    "category": "Flowering",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Pond mud",
+    "description": "Sacred aquatic flower of India.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Water Lily",
+    "scientificName": "Nymphaea",
+    "category": "Flowering",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Pond substrate",
+    "description": "Beautiful floating flowers for ponds.",
+    "origin": "Worldwide"
+  },
+  {
+    "commonName": "Sunflower",
+    "scientificName": "Helianthus annuus",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained loamy soil",
+    "description": "Bright yellow flowers that follow the sun.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Zinnia",
+    "scientificName": "Zinnia elegans",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Colorful annual flowers.",
+    "origin": "Mexico"
+  },
+  {
+    "commonName": "Dahlia",
+    "scientificName": "Dahlia pinnata",
+    "category": "Flowering",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Large decorative flowers in many colors.",
+    "origin": "Mexico"
+  },
+  {
+    "commonName": "Chrysanthemum",
+    "scientificName": "Chrysanthemum",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Popular flowers for Diwali decoration.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Adenium",
+    "scientificName": "Adenium obesum",
+    "category": "Outdoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Sandy, well-drained soil",
+    "description": "Desert rose with striking blooms.",
+    "origin": "Africa"
+  },
+  {
+    "commonName": "Bonsai Ficus",
+    "scientificName": "Ficus microcarpa",
+    "category": "Indoor",
+    "waterFrequency": "Once every 3 days",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-draining bonsai mix",
+    "description": "Miniature tree for indoor decoration.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Lucky Bamboo",
+    "scientificName": "Dracaena sanderiana",
+    "category": "Indoor",
+    "waterFrequency": "Weekly water change",
+    "sunlight": "Indirect light",
+    "soil": "Water or pebbles",
+    "description": "Symbol of good fortune and prosperity.",
+    "origin": "Central Africa"
+  },
+  {
+    "commonName": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "category": "Indoor",
+    "waterFrequency": "Once every 2 weeks",
+    "sunlight": "Bright light",
+    "soil": "Well-drained succulent mix",
+    "description": "Money plant symbolizing prosperity.",
+    "origin": "South Africa"
+  },
+  {
+    "commonName": "Syngonium",
+    "scientificName": "Syngonium podophyllum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Indirect light",
+    "soil": "Well-draining potting mix",
+    "description": "Arrow-shaped leaves, easy houseplant.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "Philodendron",
+    "scientificName": "Philodendron",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Indirect light",
+    "soil": "Well-draining potting mix",
+    "description": "Heart-shaped leaves, climbing vine.",
+    "origin": "South America"
+  },
+  {
+    "commonName": "Calathea",
+    "scientificName": "Calathea",
+    "category": "Indoor",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Low to medium light",
+    "soil": "Moist, well-drained soil",
+    "description": "Decorative patterned leaves.",
+    "origin": "South America"
+  },
+  {
+    "commonName": "Aglaonema",
+    "scientificName": "Aglaonema",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Low to medium light",
+    "soil": "Well-drained potting mix",
+    "description": "Chinese evergreen with colorful leaves.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Dracaena",
+    "scientificName": "Dracaena",
+    "category": "Indoor",
+    "waterFrequency": "Once every 2 weeks",
+    "sunlight": "Indirect light",
+    "soil": "Well-drained potting mix",
+    "description": "Striking foliage plant for indoors.",
+    "origin": "Africa"
+  },
+  {
+    "commonName": "Croton Petra",
+    "scientificName": "Codiaeum variegatum Petra",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-drained potting mix",
+    "description": "Vibrant multi-colored leaves.",
+    "origin": "Southeast Asia"
+  },
+  {
+    "commonName": "Dieffenbachia",
+    "scientificName": "Dieffenbachia",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Indirect light",
+    "soil": "Well-drained potting mix",
+    "description": "Large tropical leaves.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Anthurium",
+    "scientificName": "Anthurium andraeanum",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Well-draining orchid mix",
+    "description": "Heart-shaped red flowers.",
+    "origin": "Colombia"
+  },
+  {
+    "commonName": "Orchid",
+    "scientificName": "Orchidaceae",
+    "category": "Indoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Bright indirect light",
+    "soil": "Orchid bark mix",
+    "description": "Elegant exotic flowering plant.",
+    "origin": "Worldwide"
+  },
+  {
+    "commonName": "Bird of Paradise",
+    "scientificName": "Strelitzia reginae",
+    "category": "Outdoor",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Exotic bird-like orange flowers.",
+    "origin": "South Africa"
+  },
+  {
+    "commonName": "Frangipani",
+    "scientificName": "Plumeria rubra",
+    "category": "Flowering",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Fragrant temple flowers.",
+    "origin": "Central America"
+  },
+  {
+    "commonName": "Ashoka Tree",
+    "scientificName": "Saraca asoca",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Partial shade",
+    "soil": "Rich, moist soil",
+    "description": "Sacred tree with orange flowers.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Peepal",
+    "scientificName": "Ficus religiosa",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Any soil type",
+    "description": "Sacred Bodhi tree.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Banyan",
+    "scientificName": "Ficus benghalensis",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Any soil type",
+    "description": "National tree of India.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Gulmohar",
+    "scientificName": "Delonix regia",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Flame tree with bright red flowers.",
+    "origin": "Madagascar"
+  },
+  {
+    "commonName": "Amaltas",
+    "scientificName": "Cassia fistula",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Golden shower tree with yellow flowers.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Palash",
+    "scientificName": "Butea monosperma",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Any soil type",
+    "description": "Flame of forest.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Chameli",
+    "scientificName": "Jasminum grandiflorum",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Spanish jasmine.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Rajnigandha",
+    "scientificName": "Polianthes tuberosa",
+    "category": "Flowering",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Rich, well-drained soil",
+    "description": "Tuberose with fragrant flowers.",
+    "origin": "Mexico"
+  },
+  {
+    "commonName": "Sadabahar",
+    "scientificName": "Catharanthus roseus",
+    "category": "Flowering",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Periwinkle flowers.",
+    "origin": "Madagascar"
+  },
+  {
+    "commonName": "Kaner",
+    "scientificName": "Nerium oleander",
+    "category": "Flowering",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Any soil type",
+    "description": "Oleander flowers.",
+    "origin": "Mediterranean"
+  },
+  {
+    "commonName": "Raat Rani",
+    "scientificName": "Cestrum nocturnum",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Partial shade",
+    "soil": "Rich soil",
+    "description": "Night-blooming jasmine.",
+    "origin": "Caribbean"
+  },
+  {
+    "commonName": "Aparajita",
+    "scientificName": "Clitoria ternatea",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Blue butterfly pea flower.",
+    "origin": "Asia"
+  },
+  {
+    "commonName": "Genda",
+    "scientificName": "Tagetes erecta",
+    "category": "Flowering",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "African marigold.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Chiku",
+    "scientificName": "Manilkara zapota",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained loamy soil",
+    "description": "Sapota tree.",
+    "origin": "Mexico"
+  },
+  {
+    "commonName": "Jamun",
+    "scientificName": "Syzygium cumini",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Well-drained soil",
+    "description": "Java plum.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Sitaphal",
+    "scientificName": "Annona squamosa",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Sandy loam",
+    "description": "Custard apple.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Ber",
+    "scientificName": "Ziziphus mauritiana",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Any soil",
+    "description": "Indian jujube.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Kadamba",
+    "scientificName": "Neolamarckia cadamba",
+    "category": "Tree",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Full sunlight",
+    "soil": "Moist soil",
+    "description": "Sacred tree.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Bakul",
+    "scientificName": "Mimusops elengi",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Partial sun",
+    "soil": "Well-drained soil",
+    "description": "Fragrant evergreen.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Shatavari",
+    "scientificName": "Asparagus racemosus",
+    "category": "Medicinal",
+    "waterFrequency": "Once a week",
+    "sunlight": "Partial shade",
+    "soil": "Rich soil",
+    "description": "Ayurvedic herb.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Jatamansi",
+    "scientificName": "Nardostachys jatamansi",
+    "category": "Medicinal",
+    "waterFrequency": "Twice a week",
+    "sunlight": "Partial shade",
+    "soil": "Rich, moist soil",
+    "description": "Himalayan herb.",
+    "origin": "Himalayas"
+  },
+  {
+    "commonName": "Pudina",
+    "scientificName": "Mentha spicata",
+    "category": "Medicinal",
+    "waterFrequency": "Daily",
+    "sunlight": "Partial sunlight",
+    "soil": "Rich, moist soil",
+    "description": "Spearmint.",
+    "origin": "Europe"
+  },
+  {
+    "commonName": "Sandalwood",
+    "scientificName": "Santalum album",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Red soil",
+    "description": "Fragrant wood.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Teak",
+    "scientificName": "Tectona grandis",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Deep soil",
+    "description": "Timber tree.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Sal",
+    "scientificName": "Shorea robusta",
+    "category": "Tree",
+    "waterFrequency": "Once a week",
+    "sunlight": "Full sunlight",
+    "soil": "Loamy soil",
+    "description": "Sacred tree.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "category": "Outdoor",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Rich soil",
+    "description": "Vegetable plant.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Chilli",
+    "scientificName": "Capsicum annuum",
+    "category": "Outdoor",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Loamy soil",
+    "description": "Spicy pepper.",
+    "origin": "Americas"
+  },
+  {
+    "commonName": "Brinjal",
+    "scientificName": "Solanum melongena",
+    "category": "Outdoor",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Rich soil",
+    "description": "Eggplant.",
+    "origin": "India"
+  },
+  {
+    "commonName": "Lady Finger",
+    "scientificName": "Abelmoschus esculentus",
+    "category": "Outdoor",
+    "waterFrequency": "Daily",
+    "sunlight": "Full sunlight",
+    "soil": "Loamy soil",
+    "description": "Okra.",
+    "origin": "Africa"
+  },
+  {
+    "commonName": "Bitter Gourd",
+    "scientificName": "Momordica charantia",
+    "category": "Outdoor",
+    "waterFrequency": "Once every 2 days",
+    "sunlight": "Full sunlight",
+    "soil": "Sandy loam",
+    "description": "Karela.",
+    "origin": "India"
+  }
+]
